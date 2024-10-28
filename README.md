@@ -1,4 +1,4 @@
-This Automation uses the Gherikin documents implementation (Cucumber With Cypress).
+This automation uses the implementation of Gherkin documents (Cucumber With Cypress).
 
 The following items are present in this automation
 1. Add a content type
