@@ -8,10 +8,10 @@ The following items are present in this automation
 5. Edit a media
 6. Delete a media
 7. Add a taxonomy
-8. Edit a taxonony
+8. Edit a taxonomy
 9. Delete a taxonomy
 10. Add a user
 11. Edit a user
 12. Delete a user
 
-Later I will add the payment automation for it
+Later I will add payment automation to it
