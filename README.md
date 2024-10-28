@@ -14,4 +14,4 @@ The following items are present in this automation
 11. Edit a user
 12. Delete a user
 
-Later I will add payment automation to it
+Later I will add payment automation to it since it has a captcha and it needs to be disabled so that the payment can be automated
