@@ -13,5 +13,8 @@ The following items are present in this automation
 10. Add a user
 11. Edit a user
 12. Delete a user
+13. Add a menu
+14. Edit a menu
+15. Delete a menu
 
 Later I will add payment automation to it since it has a captcha and it needs to be disabled so that the payment can be automated
